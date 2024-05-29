@@ -10,4 +10,4 @@ Bringing these elements together, our guide serves as a unique and action-orient
 
 Furthermore, our approach fosters collaboration and partnership-building by identifying regions with similar strengths or challenges, facilitating knowledge-sharing and collective action. By providing a roadmap for regional leaders to articulate their readiness and take proactive steps towards building a greener economy, we help lay the foundation for a more sustainable and resilient future.
 
-Click here[https://info.jff.org/assessing-regional-readiness-for-action] to navigate to JFF’s interactive regional readiness tool page and see for yourself the insights and strategies that this work has derived.
+Click [here](https://info.jff.org/assessing-regional-readiness-for-action) to navigate to JFF’s interactive regional readiness tool page and see for yourself the insights and strategies that this work has derived.
