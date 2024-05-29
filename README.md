@@ -1,3 +1,5 @@
+# Green Job Transformation Readiness dashboard
+
 A comprehensive guide I developed for Jobs for the Future (JFF) aimed at empowering leaders to navigate the multifaceted challenges of fostering a vibrant green economy in the United States. As part of our Climate-Resilient Employees for a Sustainable Tomorrow (CREST) initiative (within JFFLabs’ Climate Innovation incubation practice area), our mission was to provide actionable insights grounded in data-driven analysis, facilitating informed decision-making and strategic planning to drive sustainable economic growth and resilience.
 
 The project addressed the pressing need for guidance amidst the increasing urgency to transition towards a more environmentally sustainable and economically viable future. With my expertise in data analytics and machine learning, I led the effort to analyse county-level data encompassing various dimensions of economic, social, and climate resilience. This involved delving into diverse data sources, including U.S. census records, climate observations, job market trends, and community surveys, to derive meaningful insights.
